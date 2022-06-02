@@ -24,4 +24,4 @@ Linkedin:
 https://www.linkedin.com/in/antoniolucasmcarvalho/
 
 Nosso Discord:
-https://discord.gg/DTYEvRN4yY
+https://discord.gg/DTYEvRN4yY 
