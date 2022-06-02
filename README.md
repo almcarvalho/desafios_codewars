@@ -1,4 +1,4 @@
-##desafios javascript do site codewars.com 
+# Resolvendo desafios javascript do site codewars.com 
 
 Desafio 1:
 https://www.codewars.com/kata/5ab52526379d20736b00000e/train/javascript <br/>
