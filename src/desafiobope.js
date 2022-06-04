@@ -1,4 +1,4 @@
-//bope challenge array []
+//https://www.codewars.com/kata/5ab52526379d20736b00000e/train/javascript
 
 function magNumber(info) {
     if (info[0] == 'PT92') {
