@@ -25,5 +25,5 @@ till.forEach(currentItem => {
 
 
 for (let item in till) {
-    console.log('item: ' + item);
+    console.log('item: ' + till[item]);
 }
